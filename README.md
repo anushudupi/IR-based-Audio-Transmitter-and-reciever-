@@ -1,1 +1,1 @@
-# IR-based-Audio-Transmitter-and-reciever-
+# IR based Audio-Transmitter and reciever
